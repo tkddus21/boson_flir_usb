@@ -11,7 +11,14 @@ setup(
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
     ],
-    install_requires=['setuptools'],
+    install_requires=[
+        'setuptools',
+        'opencv-python',
+        'numpy<2.0.0',
+        'rclpy',
+        'sensor_msgs',
+        'cv_bridge',
+    ],
     zip_safe=True,
     maintainer='krristudent',
     maintainer_email='krristudent@todo.todo',
@@ -22,7 +29,7 @@ setup(
         'console_scripts': [
              'thermal_publisher = boson_thermal_publisher.thermal_publisher:main',
              'boson_flir_publisher = boson_thermal_publisher.boson_flir_publisher:main',
-             'opencv_thermal_publisher_publisher = boson_thermal_publisher.opencv_thermal_publisher_publisher:main'
+             'opencv_thermal_publisher = boson_thermal_publisher.opencv_thermal_publisher:main'
         ],
     },
 )
