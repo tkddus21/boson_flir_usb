@@ -1,0 +1,110 @@
+[0.000000] (-) TimerEvent: {}
+[0.001882] (boson_thermal_publisher) JobQueued: {'identifier': 'boson_thermal_publisher', 'dependencies': OrderedDict()}
+[0.002598] (boson_thermal_publisher) JobStarted: {'identifier': 'boson_thermal_publisher'}
+[0.098938] (-) TimerEvent: {}
+[0.200007] (-) TimerEvent: {}
+[0.300828] (-) TimerEvent: {}
+[0.401538] (-) TimerEvent: {}
+[0.502337] (-) TimerEvent: {}
+[0.603338] (-) TimerEvent: {}
+[0.704391] (-) TimerEvent: {}
+[0.805642] (-) TimerEvent: {}
+[0.907157] (-) TimerEvent: {}
+[1.008436] (-) TimerEvent: {}
+[1.110043] (-) TimerEvent: {}
+[1.211700] (-) TimerEvent: {}
+[1.313574] (-) TimerEvent: {}
+[1.415079] (-) TimerEvent: {}
+[1.516037] (-) TimerEvent: {}
+[1.616975] (-) TimerEvent: {}
+[1.722672] (-) TimerEvent: {}
+[1.824148] (-) TimerEvent: {}
+[1.925955] (-) TimerEvent: {}
+[2.026899] (-) TimerEvent: {}
+[2.128371] (-) TimerEvent: {}
+[2.229457] (-) TimerEvent: {}
+[2.331663] (-) TimerEvent: {}
+[2.433891] (-) TimerEvent: {}
+[2.535429] (-) TimerEvent: {}
+[2.636849] (-) TimerEvent: {}
+[2.738613] (-) TimerEvent: {}
+[2.841423] (-) TimerEvent: {}
+[2.946016] (-) TimerEvent: {}
+[3.050021] (-) TimerEvent: {}
+[3.154476] (-) TimerEvent: {}
+[3.256257] (-) TimerEvent: {}
+[3.357730] (-) TimerEvent: {}
+[3.458604] (-) TimerEvent: {}
+[3.559319] (-) TimerEvent: {}
+[3.660027] (-) TimerEvent: {}
+[3.760838] (-) TimerEvent: {}
+[3.861662] (-) TimerEvent: {}
+[3.962661] (-) TimerEvent: {}
+[4.063705] (-) TimerEvent: {}
+[4.165524] (-) TimerEvent: {}
+[4.268108] (-) TimerEvent: {}
+[4.371299] (-) TimerEvent: {}
+[4.472228] (-) TimerEvent: {}
+[4.573576] (-) TimerEvent: {}
+[4.675740] (-) TimerEvent: {}
+[4.776450] (-) TimerEvent: {}
+[4.877134] (-) TimerEvent: {}
+[4.978358] (-) TimerEvent: {}
+[5.080494] (-) TimerEvent: {}
+[5.183716] (-) TimerEvent: {}
+[5.285895] (-) TimerEvent: {}
+[5.387482] (-) TimerEvent: {}
+[5.489502] (-) TimerEvent: {}
+[5.593903] (-) TimerEvent: {}
+[5.698137] (-) TimerEvent: {}
+[5.799947] (-) TimerEvent: {}
+[5.901912] (-) TimerEvent: {}
+[6.003374] (-) TimerEvent: {}
+[6.104910] (-) TimerEvent: {}
+[6.208295] (-) TimerEvent: {}
+[6.310456] (-) TimerEvent: {}
+[6.413552] (-) TimerEvent: {}
+[6.519118] (-) TimerEvent: {}
+[6.620679] (-) TimerEvent: {}
+[6.630194] (boson_thermal_publisher) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/boson_thermal_publisher', 'build', '--build-base', '/home/krristudent/boson_flir_ws/build/boson_thermal_publisher/build', 'install', '--record', '/home/krristudent/boson_flir_ws/build/boson_thermal_publisher/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/krristudent/boson_flir_ws/src/boson_thermal_publisher', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'krristudent', 'LC_TIME': 'ko_KR.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/krristudent', 'OLDPWD': '/home/krristudent/boson_flir_ws/src', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'ko_KR.UTF-8', 'SYSTEMD_EXEC_PID': '1610', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/krristudent/boson_flir_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'krristudent', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'krristudent', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/krristudent-desktop:@/tmp/.ICE-unix/1578,unix/krristudent-desktop:/tmp/.ICE-unix/1578', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'ko_KR.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/be46c226_9d6c_4d30_b618_dd5361832a0f', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'ko_KR.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.3A1432', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.110', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/krristudent/boson_flir_ws/install/boson_thermal_publisher:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'ko_KR.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'ko_KR.UTF-8', 'LC_IDENTIFICATION': 'ko_KR.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/krristudent/boson_flir_ws/build/boson_thermal_publisher', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/krristudent/boson_flir_ws/build/boson_thermal_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages:/home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'ko_KR.UTF-8', 'LC_PAPER': 'ko_KR.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[6.720873] (-) TimerEvent: {}
+[6.821935] (-) TimerEvent: {}
+[6.922621] (-) TimerEvent: {}
+[7.023541] (-) TimerEvent: {}
+[7.124305] (-) TimerEvent: {}
+[7.225020] (-) TimerEvent: {}
+[7.325720] (-) TimerEvent: {}
+[7.426465] (-) TimerEvent: {}
+[7.527363] (-) TimerEvent: {}
+[7.628063] (-) TimerEvent: {}
+[7.728782] (-) TimerEvent: {}
+[7.829488] (-) TimerEvent: {}
+[7.930350] (-) TimerEvent: {}
+[7.983948] (boson_thermal_publisher) StdoutLine: {'line': b'running egg_info\n'}
+[7.987345] (boson_thermal_publisher) StdoutLine: {'line': b'writing ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/PKG-INFO\n'}
+[7.989551] (boson_thermal_publisher) StdoutLine: {'line': b'writing dependency_links to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/dependency_links.txt\n'}
+[7.990383] (boson_thermal_publisher) StdoutLine: {'line': b'writing entry points to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/entry_points.txt\n'}
+[7.991069] (boson_thermal_publisher) StdoutLine: {'line': b'writing requirements to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/requires.txt\n'}
+[7.991677] (boson_thermal_publisher) StdoutLine: {'line': b'writing top-level names to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/top_level.txt\n'}
+[8.000411] (boson_thermal_publisher) StdoutLine: {'line': b"reading manifest file '../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/SOURCES.txt'\n"}
+[8.005189] (boson_thermal_publisher) StdoutLine: {'line': b"writing manifest file '../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/SOURCES.txt'\n"}
+[8.005992] (boson_thermal_publisher) StdoutLine: {'line': b'running build\n'}
+[8.006553] (boson_thermal_publisher) StdoutLine: {'line': b'running build_py\n'}
+[8.007115] (boson_thermal_publisher) StdoutLine: {'line': b'copying boson_thermal_publisher/thermal_publisher.py -> /home/krristudent/boson_flir_ws/build/boson_thermal_publisher/build/lib/boson_thermal_publisher\n'}
+[8.008844] (boson_thermal_publisher) StdoutLine: {'line': b'running install\n'}
+[8.010810] (boson_thermal_publisher) StdoutLine: {'line': b'running install_lib\n'}
+[8.015218] (boson_thermal_publisher) StdoutLine: {'line': b'copying /home/krristudent/boson_flir_ws/build/boson_thermal_publisher/build/lib/boson_thermal_publisher/thermal_publisher.py -> /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher\n'}
+[8.018699] (boson_thermal_publisher) StdoutLine: {'line': b'byte-compiling /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher/thermal_publisher.py to thermal_publisher.cpython-310.pyc\n'}
+[8.022044] (boson_thermal_publisher) StdoutLine: {'line': b'running install_data\n'}
+[8.022885] (boson_thermal_publisher) StdoutLine: {'line': b'running install_egg_info\n'}
+[8.030519] (-) TimerEvent: {}
+[8.031181] (boson_thermal_publisher) StdoutLine: {'line': b"removing '/home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[8.032910] (boson_thermal_publisher) StdoutLine: {'line': b'Copying ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info to /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher-0.0.0-py3.10.egg-info\n'}
+[8.039738] (boson_thermal_publisher) StdoutLine: {'line': b'running install_scripts\n'}
+[8.130707] (-) TimerEvent: {}
+[8.137173] (boson_thermal_publisher) StdoutLine: {'line': b'Installing thermal_publisher script to /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/boson_thermal_publisher\n'}
+[8.139120] (boson_thermal_publisher) StdoutLine: {'line': b"writing list of installed files to '/home/krristudent/boson_flir_ws/build/boson_thermal_publisher/install.log'\n"}
+[8.231097] (-) TimerEvent: {}
+[8.266869] (boson_thermal_publisher) CommandEnded: {'returncode': 0}
+[8.327600] (boson_thermal_publisher) JobEnded: {'identifier': 'boson_thermal_publisher', 'rc': 0}
+[8.330687] (-) EventReactorShutdown: {}
