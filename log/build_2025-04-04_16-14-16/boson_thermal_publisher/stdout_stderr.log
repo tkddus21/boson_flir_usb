@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/PKG-INFO
+writing dependency_links to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/dependency_links.txt
+writing entry points to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/entry_points.txt
+writing requirements to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/requires.txt
+writing top-level names to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/top_level.txt
+reading manifest file '../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/SOURCES.txt'
+writing manifest file '../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info to /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher-0.0.0-py3.10.egg-info
+running install_scripts
+Installing boson_flir_publisher script to /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/boson_thermal_publisher
+Installing opencv_thermal_publisher_publisher script to /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/boson_thermal_publisher
+Installing thermal_publisher script to /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/boson_thermal_publisher
+writing list of installed files to '/home/krristudent/boson_flir_ws/build/boson_thermal_publisher/install.log'

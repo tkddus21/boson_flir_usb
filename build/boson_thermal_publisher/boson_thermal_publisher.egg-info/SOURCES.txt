@@ -10,6 +10,7 @@ setup.py
 ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/zip-safe
 boson_thermal_publisher/__init__.py
 boson_thermal_publisher/boson_flir_publisher.py
+boson_thermal_publisher/opencv_thermal_publisher.py
 boson_thermal_publisher/thermal_publisher.py
 resource/boson_thermal_publisher
 test/test_copyright.py
