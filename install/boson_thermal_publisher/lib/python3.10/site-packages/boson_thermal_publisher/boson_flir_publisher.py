@@ -29,7 +29,7 @@ class ThermalPublisher(Node):
             normalized = cv2.normalize(frame, None, 0, 255, cv2.NORM_MINMAX)
             gray_8bit = np.uint8(normalized)
 
-            msg = self.bridge.cv2_to_imgmsg(gray_16bit, encoding='mono16')
+            msg = self.bridge.cv2_to_imgmsg(frame, encoding='mono16')
             self.publisher_.publish(msg)
         else:
             self.get_logger().warn('Failed to read frame')

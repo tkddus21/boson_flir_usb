@@ -1,0 +1,25 @@
+[4.206s] Invoking command in '/home/krristudent/boson_flir_ws/src/boson_thermal_publisher': PYTHONPATH=/home/krristudent/boson_flir_ws/build/boson_thermal_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/boson_thermal_publisher build --build-base /home/krristudent/boson_flir_ws/build/boson_thermal_publisher/build install --record /home/krristudent/boson_flir_ws/build/boson_thermal_publisher/install.log --single-version-externally-managed install_data
+[5.936s] running egg_info
+[5.940s] writing ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/PKG-INFO
+[5.941s] writing dependency_links to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/dependency_links.txt
+[5.943s] writing entry points to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/entry_points.txt
+[5.944s] writing requirements to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/requires.txt
+[5.945s] writing top-level names to ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/top_level.txt
+[5.956s] reading manifest file '../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/SOURCES.txt'
+[5.962s] writing manifest file '../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info/SOURCES.txt'
+[5.963s] running build
+[5.964s] running build_py
+[5.965s] copying boson_thermal_publisher/thermal_publisher.py -> /home/krristudent/boson_flir_ws/build/boson_thermal_publisher/build/lib/boson_thermal_publisher
+[5.966s] running install
+[5.968s] running install_lib
+[5.973s] copying /home/krristudent/boson_flir_ws/build/boson_thermal_publisher/build/lib/boson_thermal_publisher/thermal_publisher.py -> /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher
+[5.980s] byte-compiling /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher/thermal_publisher.py to thermal_publisher.cpython-310.pyc
+[5.983s] running install_data
+[5.985s] running install_egg_info
+[5.997s] removing '/home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[6.001s] Copying ../../build/boson_thermal_publisher/boson_thermal_publisher.egg-info to /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages/boson_thermal_publisher-0.0.0-py3.10.egg-info
+[6.011s] running install_scripts
+[6.125s] Installing boson_flir_publisher script to /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/boson_thermal_publisher
+[6.126s] Installing thermal_publisher script to /home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/boson_thermal_publisher
+[6.129s] writing list of installed files to '/home/krristudent/boson_flir_ws/build/boson_thermal_publisher/install.log'
+[6.289s] Invoked command in '/home/krristudent/boson_flir_ws/src/boson_thermal_publisher' returned '0': PYTHONPATH=/home/krristudent/boson_flir_ws/build/boson_thermal_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/krristudent/boson_flir_ws/install/boson_thermal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/boson_thermal_publisher build --build-base /home/krristudent/boson_flir_ws/build/boson_thermal_publisher/build install --record /home/krristudent/boson_flir_ws/build/boson_thermal_publisher/install.log --single-version-externally-managed install_data

@@ -21,7 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
              'thermal_publisher = boson_thermal_publisher.thermal_publisher:main',
-             'boson_flir_publisher = boson_thermal_publish.boson_flir_publisher:main'
+             'boson_flir_publisher = boson_thermal_publiher.boson_flir_publisher:main'
         ],
     },
 )
